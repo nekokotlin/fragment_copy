@@ -1,3 +1,3 @@
 # fragment_copy
-https://qiita.com/folivora/items/f039c27ab3f81400cb44
-の写経をしていろいろいじりたい
+https://github.com/bokufolivora/testFragment
+の写経を通し、Fragmentを理解する
